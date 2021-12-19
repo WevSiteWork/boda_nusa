@@ -1,0 +1,27 @@
+<html>
+<header>
+    <h1> майнкрафт </h1>
+    <h2> це гра з пікселями</h2>
+</header>
+<table>
+    <tr>
+        <td>рік</td>
+        <td> версія майнкрафт </td>
+    </tr>
+    <td> 2019 </td>
+    <td> 1.16.34. </td>
+    <tr>
+        <td>2020 </td>
+        <td> 1.17.56. </td>
+    </tr>
+    <td> 2021 </td>
+    <td>1.18.89 </td>
+    <p> <img src="https://mars.algoritmika.org/uploads/2020/09/curling-769673_640_0_1601463922.jpg"/></p>
+    <p> <img src="https://www.minecraft.net/content/dam/games/minecraft/marketplace/updates-catspandas_latest.jpg"  </p>
+    <p> <img src="https://cdn.igromania.ru/mnt/articles/c/3/a/d/4/3/31609/preview/c5dfd45a1633c4fd_1920xH.jpg"with=50px"/>
+    </p>
+    <footer>
+        <p>адреса сайту модаіг https://www.minecraft.net/ru-ru</p>
+        <p>можна робити сервера</p>
+    </footer>
+</html>
